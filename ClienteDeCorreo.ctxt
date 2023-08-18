@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ClienteDeCorreo
+comment1.params=servidor\ usuario
+comment1.target=ClienteDeCorreo(ServidorDeCorreo,\ java.lang.String)
+comment2.params=para\ texto
+comment2.target=void\ enviarMensaje(java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=void\ recibirMensaje()
+comment4.params=
+comment4.target=void\ contarMensaje()
+numComments=5
